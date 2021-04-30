@@ -7,7 +7,7 @@ Habilidades: JAVASCRIPT / REACT.JS / HTML 5/ CSS 3 / REDUX / NODE.JS / SQL /  PO
 
 - 🔭 Este es el ultimo proyecto que estoy trabajando ([https://margot.vercel.app])
 - 📫 Podes contactame por aca: juanjose.peralta92@gmail.com
-- 😎 Un poco más de mi: soy entrenador de tenis 🎾 / toco la guitarra electrica 🎸 / me apasiona la cocina 👨‍🍳
+- ⛱  Un poco más de mi: soy entrenador de tenis 🎾 / toco la guitarra electrica 🎸 / me apasiona la cocina 👨‍🍳
 
 
 
