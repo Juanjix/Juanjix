@@ -7,7 +7,7 @@ Actualmente estoy finalizando el bootcamp de HENRY y realizando algunos proyecto
 
 Habilidades: HTML 5 / CSS 3 / JAVASCRIPT / REACT.JS / REDUX / NODE.JS / EXPRESS.JS /  SQL /  POSTGRES / SEQUELIZE
 
-- 🔭 Este es el ultimo proyecto que estoy trabajando ([https://margot.vercel.app])
+- 🔭 Estos son los ultimos proyectos que estoy trabajando ([https://margot.vercel.app] , [https://acde2021.encuentroanualacde.com.ar])
 - 📫 Podes contactame por aca: juanjose.peralta92@gmail.com
 - ⛱  Un poco más de mi: soy entrenador de tenis 🎾 / toco la guitarra electrica 🎸 / me apasiona la cocina 👨‍🍳
 
