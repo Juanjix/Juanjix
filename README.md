@@ -7,7 +7,7 @@ Actualmente estoy finalizando el bootcamp de HENRY y realizando algunos proyecto
 
 Habilidades: HTML 5 / CSS 3 / JAVASCRIPT / REACT.JS / REDUX / NODE.JS / EXPRESS.JS /  SQL /  POSTGRES / SEQUELIZE
 
-- 🔭 Estos son los ultimos proyectos que estoy trabajando ([https://margot.vercel.app] , [https://brand.indicius.com/])
+- 🔭 Estos son los ultimos proyectos que estoy trabajando  ([https://operators-guild.com],[https://hathora.dev],[https://clinicamilito.com],[https://margot.vercel.app] , [https://brand.indicius.com/])
 - 📫 Podes contactame por aca: juanjose.peralta92@gmail.com
 - ⛱  Un poco más de mi: soy entrenador de tenis 🎾 / toco la guitarra electrica 🎸 / me apasiona la cocina 👨‍🍳
 
