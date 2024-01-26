@@ -12,7 +12,6 @@ Habilidades: HTML 5 / CSS 3 / JAVASCRIPT / REACT.JS / REDUX / NODE.JS / EXPRESS.
 - ⛱  Un poco más de mi: Soy entrenador de tenis 🎾 - Toco la guitarra electrica 🎸 - Me apasiona la cocina 👨‍🍳
 
 
-
 -----
 
 ### Hello 👋, I'm Juanso
