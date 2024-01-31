@@ -1,5 +1,4 @@
 ### Hola 👋, soy Juanso
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2zyXincBvpToHm7S9KSNKNa1vrS8Bz0QkXw&usqp=CAU)
 
 Mi nombre es Juan José y mis amigos me dicen Juanso. Estudie 2 años la carrera de Analista Programador en la Universidad Nacional de La Plata (UNLP) y luego segui mi formación de manera autodidacta.
 
