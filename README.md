@@ -6,7 +6,7 @@ Actualmente estoy finalizando el bootcamp de HENRY y realizando algunos proyecto
 
 Habilidades: HTML 5 / CSS 3 / JAVASCRIPT / REACT.JS / REDUX / NODE.JS / EXPRESS.JS /  SQL /  POSTGRES / SEQUELIZE
 
-- 🔭 Estos son los ultimos proyectos que estoy trabajando  ([https://operators-guild.com],[https://hathora.dev],[https://clinicamilito.com],[https://margot.vercel.app] , [https://brand.indicius.com/])
+- 🔭 Estos son los ultimos proyectos que estoy trabajando  ([https://operators-guild.com] , [https://hathora.dev] , [https://clinicamilito.com] , [https://margot.vercel.app] , [https://brand.indicius.com/])
 - 📫 Podes contactame por aca: juanjose.peralta92@gmail.com
 - ⛱  Un poco más de mi: Soy entrenador de tenis 🎾 - Toco la guitarra electrica 🎸 - Me apasiona la cocina 👨‍🍳
 
@@ -21,6 +21,6 @@ Currently, I am completing the HENRY bootcamp and working on some freelance proj
 
 Skills: HTML 5 / CSS 3 / JAVASCRIPT / REACT.JS / REDUX / NODE.JS / EXPRESS.JS / SQL / POSTGRES / SEQUELIZE
 
-🔭 Here are the latest projects I'm working on ([https://operators-guild.com],[https://hathora.dev],[https://clinicamilito.com],[https://margot.vercel.app],[https://brand.indicius.com/])
+🔭 Here are the latest projects I'm working on ([https://operators-guild.com], [https://hathora.dev], [https://clinicamilito.com], [https://margot.vercel.app],[https://brand.indicius.com/])
 📫 You can contact me here: juanjose.peralta92@gmail.com
 ⛱ A bit more about me: I'm a tennis coach 🎾 - I play the electric guitar 🎸 - I'm passionate about cooking 👨‍🍳
